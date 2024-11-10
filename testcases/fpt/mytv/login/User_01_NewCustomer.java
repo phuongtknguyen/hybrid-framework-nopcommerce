@@ -9,7 +9,7 @@ public class User_01_NewCustomer {
     }
 
     @Test
-    public void Customer_02_Invalid_Email(){
+    public void Customer_02_Invalid_Password(){
 
     }
 }
